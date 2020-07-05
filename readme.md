@@ -1,6 +1,6 @@
 # Demo for Jetbrains Rider issue (RIDER-14289 Support ProjectReferences in WebSites)[https://youtrack.jetbrains.com/issue/RIDER-14289]
 
-Repo steps:
+Repro steps:
 
 - Setup website to run within IIS, external to IDE
 - Change the text in ClassLibrary.Class.Text
